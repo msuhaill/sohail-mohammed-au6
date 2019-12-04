@@ -1,2 +1,3 @@
 name:sohail mohammed
 email:msuhail.av@gmail.com
+skills: node js, java, ruby
