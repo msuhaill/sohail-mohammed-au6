@@ -56,3 +56,28 @@ tr:nth-child(all) {
 tr {
   text-align: webkit-left;
 }
+
+
+/* transition and transformations */
+#box {
+  height: 100px;
+  width: 100px;
+  background-color: chocolate;
+  margin: 50px;
+  transition-duration: 1s;
+  transition-property: background-color;
+
+}
+
+#box:hover {
+  background-color: green;
+
+}
+
+
+
+
+
+
+
+
